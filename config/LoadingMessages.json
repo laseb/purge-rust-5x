@@ -1,0 +1,36 @@
+{
+  "Text Display Frequency (Seconds)": 1,
+  "Enable Messages Cyclicity": false,
+  "Use Random Cyclicity (Instead of sequential)": false,
+  "Cycle Messages Every ~N Seconds": 3.0,
+  "Messages": [
+    {
+      "Top Status": "<color=#AAFF01>Welcome to PurgeRust!</color>",
+      "Bottom Status": "<color=#ffffff>Thank you for joining the Community</color>"
+    },
+    {
+      "Top Status": "<color=#AAFF01>Need some supplies?</color>",
+      "Bottom Status": "<color=#ffffff>Type /town</color>"
+    },
+    {
+      "Top Status": "<color=#AAFF01>PVP Areana</color>",
+      "Bottom Status": "<color=#ffffff>Every Monday, Tuesday and Friday, 18:00 - 20:00</color>"
+    }
+   ],
+  "Enable Queue Messages": false,
+  "Queue Messages": [
+    {
+      "Top Status": "<color=##ffff00>You're in queue...</color>",
+      "Bottom Status": "<color=#add8e6>{AHEAD} players ahead of you.</color>"
+    },
+    {
+      "Top Status": "<color=#add8e6>You're in queue...</color>",
+      "Bottom Status": "<color=#ffff00>{BEHIND} players behind you.</color>"
+    }
+  ],
+  "QueuePosition": null,
+  "Last Message (When entering game)": {
+    "Top Status": "<color=#ffff00>Get ready, your about to join!</color>",
+    "Bottom Status": "<color=#008000>Beware of local citizens</color>"
+  }
+}

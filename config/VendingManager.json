@@ -1,0 +1,101 @@
+{
+  "config": {
+    "destroyOnUnload": false,
+    "ejectLocks": false,
+    "health": 500.0,
+    "lockable": true,
+    "lockFailureMessage": false,
+    "saveLocks": true,
+    "setHealth": true,
+    "noBroadcast": false,
+    "restricted": false,
+    "useEconomics": false,
+    "useServerRewards": false,
+    "transactionTimeout": 300.0,
+    "logTransSuccess": false,
+    "logTransFailure": false,
+    "transMessages": true,
+    "currencyItem": "blood"
+  },
+  "resistances": {
+    "Generic": 0.98,
+    "Hunger": 0.0,
+    "Thirst": 0.0,
+    "Cold": 0.0,
+    "Drowned": 0.0,
+    "Heat": 1.0,
+    "Bleeding": 0.0,
+    "Poison": 0.0,
+    "Suicide": 0.0,
+    "Bullet": 0.9999,
+    "Slash": 0.99,
+    "Blunt": 0.99,
+    "Fall": 0.0,
+    "Radiation": 1.0,
+    "Bite": 0.99,
+    "Stab": 0.98,
+    "Explosion": 0.5,
+    "RadiationExposure": 0.0,
+    "ColdExposure": 0.0,
+    "Decay": 0.0,
+    "ElectricShock": 0.0,
+    "Arrow": 1.0,
+    "AntiVehicle": 1.0,
+    "Collision": 1.0,
+    "Fun_Water": 0.0
+  },
+  "templates": {
+    "weapons": {
+      "entries": [
+        {
+          "itemToSellName": "rifle.ak",
+          "itemToSellAmount": 1,
+          "currencyName": "scrap",
+          "currencyAmountPerItem": 1200,
+          "itemToSellIsBP": false,
+          "currencyIsBP": false
+        },
+        {
+          "itemToSellName": "rifle.l96",
+          "itemToSellAmount": 1,
+          "currencyName": "scrap",
+          "currencyAmountPerItem": 1500,
+          "itemToSellIsBP": false,
+          "currencyIsBP": false
+        },
+        {
+          "itemToSellName": "lmg.m249",
+          "itemToSellAmount": 1,
+          "currencyName": "scrap",
+          "currencyAmountPerItem": 2000,
+          "itemToSellIsBP": false,
+          "currencyIsBP": false
+        },
+        {
+          "itemToSellName": "explosive.timed",
+          "itemToSellAmount": 1,
+          "currencyName": "scrap",
+          "currencyAmountPerItem": 500,
+          "itemToSellIsBP": false,
+          "currencyIsBP": false
+        },
+        {
+          "itemToSellName": "weapon.mod.small.scope",
+          "itemToSellAmount": 1,
+          "currencyName": "scrap",
+          "currencyAmountPerItem": 100,
+          "itemToSellIsBP": false,
+          "currencyIsBP": false
+        },
+        {
+          "itemToSellName": "weapon.mod.8x.scope",
+          "itemToSellAmount": 1,
+          "currencyName": "scrap",
+          "currencyAmountPerItem": 100,
+          "itemToSellIsBP": false,
+          "currencyIsBP": false
+        }
+      ]
+    }
+  }
+}

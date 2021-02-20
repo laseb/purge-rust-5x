@@ -1,0 +1,8 @@
+{
+  "lastMapWipe": "<color=#b3b3b3>Last Map Wipe:</color> <color=#ffae1a>{0}</color> <color=#b3b3b3>Time Until Next Map Wipe:</color> <color=#ffae1a>{1}</color>",
+  "setWipeMap": "<color=#b3b3b3> - Sets the current time as last map wipe</color>",
+  "savedWipeMap": "<color=#b3b3b3>Successfully set last map wipe to:</color> <color=#ffae1a>{0}</color>",
+  "setWipeMapManual": "<color=#b3b3b3> - Set the time of last map wipe. Format: MM/dd/yyyy</color>",
+  "savedNextWipeMap": "<color=#b3b3b3>Successfully set next map wipe to:</color> <color=#ffae1a>{0}</color>",
+  "setNextWipeMapManual": "<color=#b3b3b3> - Set the time of next map wipe. Format: MM/dd/yyyy</color>"
+}

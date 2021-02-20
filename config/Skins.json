@@ -1,0 +1,466 @@
+{
+  "Command": "skin",
+  "Skins": [
+    {
+      "Item Shortname": "shortname",
+      "Skins": [
+        0
+      ]
+    },
+    {
+      "Item Shortname": "tshirt",
+      "Skins": [
+        0,
+        2373635825
+      ]
+    },
+    {
+      "Item Shortname": "metal.facemask",
+      "Skins": [
+        0,
+        1216976323,
+        2359149103,
+        2296503845,
+        2252919011,
+        2229280260,
+        2092488951,
+        1993775723,
+        1711049678,
+        1586135331,
+        1934943101
+      ]
+    },
+    {
+      "Item Shortname": "hoodie",
+      "Skins": [
+        0,
+        2329780962,
+        2295666190,
+        2282178792,
+        2256109331,
+        2192919905,
+        1961464025,
+        2099705103,
+        2067569919,
+        2366661340,
+        1936131747
+      ]
+    },
+    {
+      "Item Shortname": "pants",
+      "Skins": [
+        0,
+        2329782748,
+        2295664263,
+        2282181821,
+        2256110716,
+        2192914821,
+        1961465777,
+        2099701364,
+        2067568367,
+        2366658636,
+        1936132863
+      ]
+    },
+    {
+      "Item Shortname": "chest",
+      "Skins": [
+        0
+      ]
+    },
+    {
+      "Item Shortname": "metal.chest.plate",
+      "Skins": [
+        0
+      ]
+    },
+    {
+      "Item Shortname": "metal",
+      "Skins": [
+        0
+      ]
+    },
+    {
+      "Item Shortname": "metal.plate.torso",
+      "Skins": [
+        0,
+        2359147787,
+        2296501936,
+        2252998412,
+        2229279338,
+        2092488087,
+        1993774875,
+        1711048020,
+        1586132318,
+        1934946028
+      ]
+    },
+    {
+      "Item Shortname": "coffeecan.helmet",
+      "Skins": [
+        0,
+        2350097716,
+        2320222274,
+        2199783358,
+        2142393198,
+        1974807032,
+        1944168755
+      ]
+    },
+    {
+      "Item Shortname": "roadsign.jacket",
+      "Skins": [
+        0,
+        2350092536,
+        2320209237,
+        2199785536,
+        2142378618,
+        1974808139,
+        1944167671
+      ]
+    },
+    {
+      "Item Shortname": "roadsign.kilt",
+      "Skins": [
+        0,
+        2350090284,
+        2320203004,
+        2199787450,
+        2142383374,
+        1974809731,
+        1944165903
+      ]
+    },
+    {
+      "Item Shortname": "shoes.boots",
+      "Skins": [
+        0,
+        2338893326,
+        2199934989,
+        2075527039
+      ]
+    },
+    {
+      "Item Shortname": "burlap.gloves",
+      "Skins": [
+        0,
+        2338896824,
+        2199937414,
+        2075536045
+      ]
+    },
+    {
+      "Item Shortname": "explosive.satchel",
+      "Skins": [
+        0,
+        2315757321,
+        1934132095
+      ]
+    },
+    {
+      "Item Shortname": "crossbow",
+      "Skins": [
+        0,
+        2316783823,
+        2136580235,
+        2193672354,
+        2059058861
+      ]
+    },
+    {
+      "Item Shortname": "door.hinged.metal",
+      "Skins": [
+        0,
+        2320063891,
+        2255950540
+      ]
+    },
+    {
+      "Item Shortname": "box.wooden.large",
+      "Skins": [
+        0,
+        2320069344,
+        2256347841,
+        2156384652,
+        2248888457,
+        2157494407,
+        1936186181,
+        1900496901
+      ]
+    },
+    {
+      "Item Shortname": "rifle.lr300",
+      "Skins": [
+        0,
+        2319796265,
+        2229046238,
+        2092965663,
+        2122513705
+      ]
+    },
+    {
+      "Item Shortname": "rifle.ak",
+      "Skins": [
+        0,
+        2319710097,
+        2240088463,
+        2268418002,
+        2245084157,
+        2248879512,
+        2249370680,
+        2242791041,
+        2179386526,
+        2109182691,
+        2108685486,
+        2101560738,
+        1983066869,
+        1609286959
+      ]
+    },
+    {
+      "Item Shortname": "smg.2",
+      "Skins": [
+        0,
+        2281845451,
+        2186437441
+      ]
+    },
+    {
+      "Item Shortname": "stonehatchet",
+      "Skins": [
+        0,
+        2275037516
+      ]
+    },
+    {
+      "Item Shortname": "box.wooden",
+      "Skins": [
+        0,
+        2268670063,
+        2255658925
+      ]
+    },
+    {
+      "Item Shortname": "shotgun.waterpipe",
+      "Skins": [
+        0,
+        2268362982
+      ]
+    },
+    {
+      "Item Shortname": "wall.frame.garagedoor",
+      "Skins": [
+        0,
+        2255437587,
+        2222230165,
+        2156585400,
+        2155588318,
+        2123310382
+      ]
+    },
+    {
+      "Item Shortname": "furnace",
+      "Skins": [
+        0,
+        2253998989,
+        2193152729,
+        2060469349,
+        1935093227,
+        1936112920
+      ]
+    },
+    {
+      "Item Shortname": "rifle.semiauto",
+      "Skins": [
+        0,
+        2252306404,
+        2249445756,
+        2193203225,
+        2171565192,
+        2131324289,
+        1933250593,
+        1936035303
+      ]
+    },
+    {
+      "Item Shortname": "burlap.headwrap",
+      "Skins": [
+        0,
+        2255857422
+      ]
+    },
+    {
+      "Item Shortname": "shotgun.double",
+      "Skins": [
+        0,
+        2249169000
+      ]
+    },
+    {
+      "Item Shortname": "lmg.m249",
+      "Skins": [
+        0,
+        1740639585
+      ]
+    },
+    {
+      "Item Shortname": "sleepingbag",
+      "Skins": [
+        0,
+        2200870229,
+        2011695446,
+        1934818691
+      ]
+    },
+    {
+      "Item Shortname": "pistol.python",
+      "Skins": [
+        0,
+        2200875381
+      ]
+    },
+    {
+      "Item Shortname": "bow.hunting",
+      "Skins": [
+        0,
+        2185750735,
+        2164997891,
+        2032574584,
+        1988012822,
+        1974088369
+      ]
+    },
+    {
+      "Item Shortname": "smg.mp5",
+      "Skins": [
+        0,
+        2172493867
+      ]
+    },
+    {
+      "Item Shortname": "pickaxe",
+      "Skins": [
+        0,
+        2171468844,
+        2068591788
+      ]
+    },
+    {
+      "Item Shortname": "hatchet",
+      "Skins": [
+        0,
+        2171464647,
+        2068589541
+      ]
+    },
+    {
+      "Item Shortname": "bone.club",
+      "Skins": [
+        0,
+        2156399984
+      ]
+    },
+    {
+      "Item Shortname": "hammer",
+      "Skins": [
+        0,
+        2138245748,
+        2115359138,
+        1876980303,
+        1858261101
+      ]
+    },
+    {
+      "Item Shortname": "rock",
+      "Skins": [
+        0,
+        2108583966
+      ]
+    },
+    {
+      "Item Shortname": "jacket",
+      "Skins": [
+        0,
+        2350426469
+      ]
+    },
+    {
+      "Item Shortname": "pistol.revolver",
+      "Skins": [
+        0,
+        2049887645
+      ]
+    },
+    {
+      "Item Shortname": "burlap.shirt",
+      "Skins": [
+        0,
+        2039984110
+      ]
+    },
+    {
+      "Item Shortname": "burlap.trousers",
+      "Skins": [
+        0,
+        2039988322
+      ]
+    },
+    {
+      "Item Shortname": "hat.boonie",
+      "Skins": [
+        0,
+        2037650796
+      ]
+    },
+    {
+      "Item Shortname": "rocket.launcher",
+      "Skins": [
+        0,
+        1936188783,
+        1926503780
+      ]
+    }
+  ],
+  "Container Panel Name": "generic",
+  "Container Capacity": 36,
+  "UI": {
+    "Background Color": "0.18 0.28 0.36",
+    "Background Anchors": {
+      "Anchor Min X": "1.0",
+      "Anchor Min Y": "1.0",
+      "Anchor Max X": "1.0",
+      "Anchor Max Y": "1.0"
+    },
+    "Background Offsets": {
+      "Offset Min X": "-300",
+      "Offset Min Y": "-100",
+      "Offset Max X": "0",
+      "Offset Max Y": "0"
+    },
+    "Left Button Text": "<size=36><</size>",
+    "Left Button Color": "0.11 0.51 0.83",
+    "Left Button Anchors": {
+      "Anchor Min X": "0.025",
+      "Anchor Min Y": "0.05",
+      "Anchor Max X": "0.325",
+      "Anchor Max Y": "0.95"
+    },
+    "Center Button Text": "<size=36>Page: {page}</size>",
+    "Center Button Color": "0.11 0.51 0.83",
+    "Center Button Anchors": {
+      "Anchor Min X": "0.350",
+      "Anchor Min Y": "0.05",
+      "Anchor Max X": "0.650",
+      "Anchor Max Y": "0.95"
+    },
+    "Right Button Text": "<size=36>></size>",
+    "Right Button Color": "0.11 0.51 0.83",
+    "Right Button Anchors": {
+      "Anchor Min X": "0.675",
+      "Anchor Min Y": "0.05",
+      "Anchor Max X": "0.975",
+      "Anchor Max Y": "0.95"
+    }
+  },
+  "Debug": false
+}

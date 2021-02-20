@@ -1,0 +1,17 @@
+{
+  "DeathMatch - Event - Name": "Deathmatch",
+  "DeathMatch - Event - SpawnFile": "pvp",
+  "DeathMatch - Kit - Default": "bow",
+  "DeathMatch - Start - Health": 100.0,
+  "DeathMatch - Win - Kills Needed": 10,
+  "DeathMatch - Zone - Name": "Deathmatch",
+  "Messages - Empty": "Arena has no more players, auto-closing.",
+  "Messages - Kill": "{0} killed {3}. ({1}/{2} kills)",
+  "Messages - Open Broadcast": "In Deathmatch, it's a free for all, the goal is to kill as many players as possible!",
+  "Messages - Show kill feed in chat": true,
+  "Messages - Show kill feed UI": true,
+  "Messages - Won": "{0} WON THE DEATHMATCH",
+  "Scoreboard - Display Scoreboard": true,
+  "Tokens - On Win": 5,
+  "Tokens - Per Kill": 1
+}

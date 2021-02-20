@@ -1,0 +1,194 @@
+{
+  "Settings": {
+    "Interrupt TP": {
+      "Above Water": false,
+      "Balloon": true,
+      "Boats": false,
+      "Cargo Ship": true,
+      "Cold": false,
+      "Excavator": false,
+      "Hot": false,
+      "Hostile": false,
+      "Hurt": true,
+      "Lift": true,
+      "Monument": false,
+      "Mounted": true,
+      "Oil Rig": false,
+      "Safe Zone": false,
+      "Swimming": false
+    },
+    "Block Teleport (NoEscape)": false,
+    "Block Teleport (ZoneManager)": false,
+    "Chat Name": "<color=red>Teleportation</color> \n\n",
+    "Chat Steam64ID": 76561199056025689,
+    "Check Boundaries On Teleport X Y Z": true,
+    "Draw Sphere On Set Home": true,
+    "Homes Enabled": true,
+    "TPR Enabled": true,
+    "Town Enabled": true,
+    "Outpost Enabled": true,
+    "Bandit Enabled": true,
+    "Strict Foundation Check": false,
+    "Cave Distance Small": 50.0,
+    "Cave Distance Medium": 70.0,
+    "Cave Distance Large": 110.0,
+    "Default Monument Size": 50.0,
+    "Minimum Temp": 0.0,
+    "Maximum Temp": 40.0,
+    "Blocked Items": {},
+    "Bypass CMD": "pay",
+    "Use Economics": false,
+    "Use Server Rewards": false,
+    "Wipe On Upgrade Or Change": false,
+    "Auto Generate Outpost Location": true,
+    "Auto Generate Bandit Location": true
+  },
+  "Admin": {
+    "Announce Teleport To Target": false,
+    "Usable By Admins": true,
+    "Usable By Moderators": true,
+    "Location Radius": 25,
+    "Teleport Near Default Distance": 30
+  },
+  "Home": {
+    "Homes Limit": 3,
+    "VIP Homes Limits": {
+      "nteleportation.vip": 5,
+      "nteleportation.vip+": 0
+    },
+    "Cooldown": 60,
+    "Countdown": 15,
+    "Daily Limit": 500,
+    "VIP Daily Limits": {
+      "nteleportation.vip": 0,
+      "nteleportation.vip+": 0
+    },
+    "VIP Cooldowns": {
+      "nteleportation.vip": 5,
+      "nteleportation.vip+": 0
+    },
+    "VIP Countdowns": {
+      "nteleportation.vip": 10,
+      "nteleportation.vip+": 0
+    },
+    "Location Radius": 25,
+    "Force On Top Of Foundation": true,
+    "Check Foundation For Owner": true,
+    "Use Friends": true,
+    "Use Clans": true,
+    "Use Teams": true,
+    "Usable Out Of Building Blocked": false,
+    "Usable Into Building Blocked": false,
+    "Allow Cupboard Owner When Building Blocked": true,
+    "Allow Iceberg": false,
+    "Allow Cave": true,
+    "Allow Crafting": false,
+    "Allow Above Foundation": true,
+    "Check If Home Is Valid On Listhomes": false,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "TPT": {
+    "Use Friends": false,
+    "Use Clans": false,
+    "Use Teams": false,
+    "Allow Cave": false
+  },
+  "TPR": {
+    "Require Player To Be Friend, Clan Mate, Or Team Mate": false,
+    "Allow Cave": true,
+    "Allow TPB": true,
+    "Cooldown": 60,
+    "Countdown": 15,
+    "Daily Limit": 500,
+    "VIP Daily Limits": {
+      "nteleportation.vip": 0,
+      "nteleportation.vip+": 1
+    },
+    "VIP Cooldowns": {
+      "nteleportation.vip": 5,
+      "nteleportation.vip+": 0
+    },
+    "VIP Countdowns": {
+      "nteleportation.vip": 5,
+      "nteleportation.vip+": 0
+    },
+    "Request Duration": 30,
+    "Block TPA On Ceiling": true,
+    "Usable Out Of Building Blocked": false,
+    "Usable Into Building Blocked": false,
+    "Allow Cupboard Owner When Building Blocked": true,
+    "Allow Crafting": false,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "Town": {
+    "Allow Cave": true,
+    "Cooldown": 60,
+    "Countdown": 15,
+    "Daily Limit": 500,
+    "VIP Daily Limits": {
+      "nteleportation.vip": 0,
+      "nteleportation.vip+": 0
+    },
+    "VIP Cooldowns": {
+      "nteleportation.vip": 0,
+      "nteleportation.vip+": 1
+    },
+    "VIP Countdowns": {
+      "nteleportation.vip": 5,
+      "nteleportation.vip+": 1
+    },
+    "Location": "1041.335 1.26241 797.8407",
+    "Usable Out Of Building Blocked": false,
+    "Allow Crafting": false,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "Outpost": {
+    "Allow Cave": true,
+    "Cooldown": 60,
+    "Countdown": 15,
+    "Daily Limit": 500,
+    "VIP Daily Limits": {
+      "nteleportation.vip": 0,
+      "nteleportation.vip+": 0
+    },
+    "VIP Cooldowns": {
+      "nteleportation.vip": 5,
+      "nteleportation.vip+": 0
+    },
+    "VIP Countdowns": {
+      "nteleportation.vip": 5,
+      "nteleportation.vip+": 0
+    },
+    "Location": "237.4841 31.29925 -85.90953",
+    "Usable Out Of Building Blocked": false,
+    "Allow Crafting": false,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "Bandit": {
+    "Allow Cave": true,
+    "Cooldown": 60,
+    "Countdown": 15,
+    "Daily Limit": 5,
+    "VIP Daily Limits": {
+      "nteleportation.vip": 0,
+      "nteleportation.vip+": 0
+    },
+    "VIP Cooldowns": {
+      "nteleportation.vip": 5,
+      "nteleportation.vip+": 0
+    },
+    "VIP Countdowns": {
+      "nteleportation.vip": 5,
+      "nteleportation.vip+": 0
+    },
+    "Location": "-649.9202 17.39251 -168.7959",
+    "Usable Out Of Building Blocked": false,
+    "Allow Crafting": false,
+    "Pay": 0,
+    "Bypass": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "No Permissions": "You cannot use this command!",
+  "addrecycler CONSOLE invalid syntax": "Invalid syntax! addrecycler <playername/id>",
+  "No Player Found": "No player was found or they are offline",
+  "AddRecycler CONSOLE success": "A recycler was successfully placed at the players location!",
+  "AddRecycler CannotPlace": "You cannot place a recycler here",
+  "RemoveRecycler CHAT NoEntityFound": "There were no valid entities found",
+  "RemoveRecycler CHAT EntityWasRemoved": "The targeted entity was removed"
+}

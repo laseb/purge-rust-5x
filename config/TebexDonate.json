@@ -1,0 +1,23 @@
+{
+  "Buy Command": {
+    "Alias": "buy",
+    "Enabled": true,
+    "UI": {
+      "Background Colour": "#2a2a2a",
+      "Background Colour Transparency": 0.9,
+      "Button Colour": "#a8a8a8",
+      "Button Colour Transparency": 0.5,
+      "Button Exit Colour": "#b31b1b",
+      "Button Exit Colour Transparency": 0.9,
+      "Default Package Image URL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b5/b5bd56c1aa4644a474a2e4972be27ef9e82e517e_full.jpg",
+      "Enabled": true,
+      "Message Avatar ID": 0
+    }
+  },
+  "Debug": {
+    "Log Actions": true,
+    "Log Response Errors": true,
+    "Log Stack Traces": true
+  },
+  "Secret key of your shop (do not tell it anyone)": "4901bf02f219775f98944a039bc8e531fd9f7265"
+}

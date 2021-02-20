@@ -1,0 +1,9 @@
+{
+  "Kit Names & Cooldowns - Cooldowns (minutes)": {
+    "vip_silver": 120.0,
+    "vip_gold": 120.0,
+    "vip_platinium": 120.0,
+    "pvp": 120.0
+  },
+  "Use GUI Kits (true/false)": false
+}

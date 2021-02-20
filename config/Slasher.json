@@ -1,0 +1,59 @@
+{
+  "EventSettings": {
+    "DefaultZoneID": "slasherzone",
+    "TokensOnKill": 1,
+    "TokensOnSurvival": 1,
+    "TokensOnWin": 5
+  },
+  "GameSettings": {
+    "AdjustTimeToSuitRounds": true,
+    "Auto_CancelTimer": 6,
+    "Auto_EndTime": 6.0,
+    "Auto_OpenTime": 18.0,
+    "Auto_StartTime": 20.0,
+    "AutoStart_Use": true,
+    "DefaultSpawnfile": "slasher_spawns",
+    "FFDamageModifier": 0.4,
+    "GameTimer_Player": 90,
+    "GameTimer_Slasher": 150,
+    "RoundsToPlay": 3,
+    "StartHealth": 100.0
+  },
+  "Messaging": {
+    "MainColor": "<color=orange>",
+    "MSGColor": "<color=#939393>"
+  },
+  "Players": {
+    "Clothing": {
+      "pants": 10078,
+      "shoes.boots": 10044,
+      "tshirt": 10039
+    },
+    "DamageModifier": 2.2,
+    "Weapon": {
+      "AmmoAmount": 0,
+      "AmmoType": "",
+      "Amount": 2,
+      "Attachments": [],
+      "Shortname": "torch"
+    }
+  },
+  "Slashers": {
+    "Clothing": {
+      "mask.bandana": 10064,
+      "pants": 10078,
+      "shoes.boots": 10044,
+      "tshirt": 10038
+    },
+    "DamageModifier": 1.0,
+    "Weapon": {
+      "AmmoAmount": 40,
+      "AmmoType": "ammo.shotgun.slug",
+      "Amount": 1,
+      "Attachments": [
+        "weapon.mod.flashlight"
+      ],
+      "Shortname": "shotgun.pump"
+    }
+  }
+}
