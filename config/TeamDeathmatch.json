@@ -1,0 +1,33 @@
+{
+  "EventSettings": {
+    "DefaultKit": "tdmkit",
+    "DefaultZoneID": "tdmzone",
+    "ShowScoreboard": true,
+    "TokensOnKill": 1,
+    "TokensOnWin": 5,
+    "UseUINotifications": true
+  },
+  "GameSettings": {
+    "FFDamageModifier": 0.0,
+    "ScoreLimit": 10,
+    "StartHealth": 100.0
+  },
+  "Messaging": {
+    "MainColor": "<color=orange>",
+    "MSGColor": "<color=#939393>"
+  },
+  "TeamA": {
+    "ClothingItems": {
+      "tshirt": 0
+    },
+    "Color": "#33CC33",
+    "Spawnfile": "tdmspawnsa"
+  },
+  "TeamB": {
+    "ClothingItems": {
+      "tshirt": 14177
+    },
+    "Color": "#003366",
+    "Spawnfile": "tdmspawnsb"
+  }
+}

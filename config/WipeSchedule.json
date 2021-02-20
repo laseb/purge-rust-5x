@@ -1,0 +1,10 @@
+{
+  "AnnounceOnJoin": true,
+  "AnnounceOnTimer": true,
+  "AnnounceTimer": 3,
+  "DateFormat": "MM/dd/yyyy",
+  "DaysBetweenWipes": 3,
+  "LastWipe": "",
+  "NextWipe": "",
+  "UseManualNextWipe": false
+}

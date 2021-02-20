@@ -1,0 +1,27 @@
+{
+  "Entities that ignore fuel consumption": {
+    "Campfire": true,
+    "CandleHat": true,
+    "CeilingLight": true,
+    "Firepit": true,
+    "Fireplace": true,
+    "Furnace": true,
+    "Lanterns": true,
+    "LargeFurnace": true,
+    "MinersHat": true,
+    "OilRefinery": true,
+    "Quarry": true,
+    "TunaLight": true,
+    "Searchlight": true,
+    "FogMachine": true,
+    "SnowMachine": true,
+    "CursedCauldren": true,
+    "ChineseLantern": true
+  },
+  "Require permission to ignore fuel consumption": false,
+  "Version": {
+    "Major": 1,
+    "Minor": 3,
+    "Patch": 8
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "BuyCheckoutURL": "Visit {url} to purchase this item!",
+  "BuyCommand": "You can buy packages from our store at {url}",
+  "BuyUISelectCategory": "Select a category to view our packages!",
+  "BuyUISelectSubCategory": "Select a sub-category to view our packages!"
+}

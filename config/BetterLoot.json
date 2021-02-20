@@ -1,0 +1,55 @@
+{
+  "Generic": {
+    "blueprintProbability": 0.11,
+    "listUpdatesOnLoaded": true,
+    "removeStackedContainers": true,
+    "WatchedPrefabs": [
+      "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-1.prefab",
+      "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-2.prefab",
+      "assets/bundled/prefabs/autospawn/resource/loot/trash-pile-1.prefab",
+      "assets/bundled/prefabs/radtown/crate_basic.prefab",
+      "assets/bundled/prefabs/radtown/crate_elite.prefab",
+      "assets/bundled/prefabs/radtown/crate_mine.prefab",
+      "assets/bundled/prefabs/radtown/crate_normal.prefab",
+      "assets/bundled/prefabs/radtown/crate_normal_2.prefab",
+      "assets/bundled/prefabs/radtown/crate_normal_2_food.prefab",
+      "assets/bundled/prefabs/radtown/crate_normal_2_medical.prefab",
+      "assets/bundled/prefabs/radtown/crate_tools.prefab",
+      "assets/bundled/prefabs/radtown/crate_underwater_advanced.prefab",
+      "assets/bundled/prefabs/radtown/crate_underwater_basic.prefab",
+      "assets/bundled/prefabs/radtown/foodbox.prefab",
+      "assets/bundled/prefabs/radtown/loot_barrel_1.prefab",
+      "assets/bundled/prefabs/radtown/loot_barrel_2.prefab",
+      "assets/bundled/prefabs/radtown/loot_trash.prefab",
+      "assets/bundled/prefabs/radtown/minecart.prefab",
+      "assets/bundled/prefabs/radtown/oil_barrel.prefab",
+      "assets/prefabs/npc/m2bradley/bradley_crate.prefab",
+      "assets/prefabs/npc/patrol helicopter/heli_crate.prefab",
+      "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab",
+      "assets/prefabs/misc/supply drop/supply_drop.prefab"
+    ]
+  },
+  "Loot": {
+    "enableHammerLootCycle": false,
+    "hammerLootCycleTime": 3,
+    "lootMultiplier": 1,
+    "scrapMultiplier": 1
+  },
+  "Rarity": {
+    "Override": {
+      "autoturret": 4,
+      "bow.compound": 3,
+      "bucket.helmet": 3,
+      "crossbow": 3,
+      "hammer.salvaged": 3,
+      "lmg.m249": 4,
+      "pistol.revolver": 3,
+      "riot.helmet": 3,
+      "salvaged.sword": 3,
+      "semibody": 3,
+      "smgbody": 3,
+      "supply.signal": 3,
+      "tunalight": 3
+    }
+  }
+}

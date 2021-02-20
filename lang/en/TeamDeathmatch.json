@@ -1,0 +1,13 @@
+{
+  "WinMsg": "Team {0} has won the game!",
+  "NoPlayers": "Not enough players to continue. Ending event",
+  "KillMsg": "{0} killed {1}",
+  "OpenMsg": "Use tactics and work together to defeat the enemy team",
+  "skillTime": "{0} {1} left to kill the slasher!",
+  "ff": "Don't shoot your team mates!",
+  "AssignTeam": "You have been assigned to <color={1}>Team {0}</color>",
+  "TeamA": "A",
+  "TeamB": "B",
+  "TeamNone": "None",
+  "Draw": "The game ended in a draw!"
+}

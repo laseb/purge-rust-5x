@@ -1,0 +1,63 @@
+{
+  "Pages": {
+    "default": {
+      "*": [
+        "<color=#AAFF01><size=20>PurgeRust Guide</size></color>",
+        "<color=#AA00FF>/help kits</color> - Helps on all commands",
+        "<color=#AA00FF>/help teleport</color> - Helps on wipe schedule",
+        "<color=#AA00FF>/help trade</color> - Helps on trading with other players",
+        "<color=#AA00FF>/help sil</color> - Helps on sil",
+        "<color=#AA00FF>/help clans</color> - Helps on clans",
+        "<color=#AA00FF>/help skins</color> - Helps on skins",
+        "<color=#AA00FF>/help wipe</color> - Wipe schedule",
+        "<color=#AA00FF>/help discord</color> - Discord help"
+      ],
+      "discord": [
+        "<color=#AAFF01><size=20>Discord</size></color>",
+        "<color=#AA00FF>/auth</color> - Gives you an auth code to authenticate with discord (this gives you a discord kit)",
+      ],
+      "teleport": [
+        "<color=#AAFF01><size=20>Teleports</size></color>",
+        "<color=#AA00FF>/tpr {player}</color> - Teleports you to another player",
+        "<color=#AA00FF>/tpa</color> - Accepts players teleport request",
+        "<color=#AA00FF>/tpc</color> - Accepts players teleport request",
+      ],
+      "kits": [
+        "<color=#AAFF01><size=20>Kits</size></color>",
+        "<color=#AA00FF>/kit</color> - Opens the Kits GUI",
+      ],
+      "clans": [
+        "<color=#AAFF01><size=20>Clans</size></color>",
+        "<color=#AA00FF>/clanhelp</color> - Displays help",
+        "<color=#AA00FF>/clan create {tag}</color> - Create a new clan",
+        "<color=#AA00FF>/clan join {tag}</color> - Join a clan if you have a invite",
+        "<color=#AA00FF>/clan leave</color> - Leave you current clan",
+      ],
+      "trade": [
+        "<color=#AAFF01><size=20>Trade</size></color>",
+        "<color=#AA00FF>/trade {playername}</color> - Requests a trade with the specified player",
+        "<color=#AA00FF>/trade accept</color> - Accepts the trade request"
+      ],
+      "sil": [
+        "<color=#AAFF01><size=20>Signed Artist</size></color>",
+        "<color=#AA00FF>/sil {url}</color> - Allows you to paste an image url onto a sign"
+      ],
+      "skins": [
+        "<color=#AAFF01><size=20>Skins</size></color>",
+        "<color=#AA00FF>/skin</color> - Opens the skin box"
+      ],
+      "wipe": [
+        "<color=#AAFF01><size=20>Wipe Schedule</size></color>",
+        "<color=#AA00FF>Normal Wipe</color> - Weekly, every Sunday at 6:00 GMT",
+        "<color=#AA00FF>BP Wipe</color> - Every 2 weeks, on Sunday at 6:00 GMT",
+      ]
+    },
+    
+  },
+  "Settings": {
+    "AllowHelpTextFromOtherPlugins": false,
+    "BreakAfter": 10,
+    "UseCustomHelpText": true
+  },
+  "VERSION": "2.0.51"
+}
